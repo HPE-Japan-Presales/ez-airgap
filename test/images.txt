@@ -1,0 +1,5 @@
+nginx:latest
+bitnami/nginx:latest
+hello-world:latest hello-world.tar.gz
+invalid01:latest
+invalid02:latest
